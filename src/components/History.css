@@ -1,0 +1,13 @@
+#history-container {
+    background-color: #d1cfcf;
+    border: 2px solid #444343;
+}
+
+#history-container h2 {
+    color: black;
+}
+
+#history-container ul {
+    list-style: none;
+    padding: 0;
+}
